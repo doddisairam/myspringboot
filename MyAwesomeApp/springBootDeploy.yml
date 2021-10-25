@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ak-angular-app
-        image: prasad459/myspringbootapp:latest
+        image: 681679478194.dkr.ecr.us-east-1.amazonaws.com/myworkingrepo:latest
         ports:
         - containerPort: 8085
         
